@@ -1,0 +1,103 @@
+.container-fluid{
+    height: auto;
+    width: auto;
+    background-color:rgb(26, 54, 54);
+}
+.row mt-5{
+    height:auto;
+    width: 100%;
+}
+
+#img1{
+    margin-top: auto;
+    margin-bottom: auto;
+    
+    margin-left: auto;
+    margin-right: auto;
+    border: solid;
+    box-shadow: 8px 8px 15px rgba(2, 3, 4, 1.5);
+
+    
+    
+}
+#about{
+    text-align: center;
+    font-family: cursive;
+    color:orange;
+    margin-top:20px;
+}
+#sub{
+    color: gold;
+    
+    text-align: center;
+    
+    font-family: cursive
+}
+
+p{
+    
+    color: honeydew;
+    margin-top: auto;
+}
+
+
+#me{
+    margin: auto;
+    padding: 20px;
+    border: solid;
+}
+
+
+.img-responsive {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    aspect-ratio: 16/9; 
+}
+
+.figure {
+    margin: 0;
+    padding: 10px; 
+}
+.container-fluid .row3 .figure-caption{
+    color: black;
+    font-family: fantasy;
+    
+
+}
+
+.figure-caption {
+    margin-top: 10px;
+}
+#q{
+    color: khaki;
+    font-family: cursive;
+    position: relative;
+    margin-top:30px;
+}
+#img3{
+    height:auto;
+    width: 100%;
+}
+#ts{
+    margin-top:auto;
+    
+    font-family: cursive;
+    
+    color:khaki;
+}
+#ed{
+    font-family: cursive;
+    color: khaki;
+    margin-top: auto;
+}
+
+
+#ctrf{
+    color: khaki;
+    font-family: cursive;
+    margin-top: 20px;
+}
+
+
+
